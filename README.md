@@ -84,7 +84,7 @@ web-agency/
    ```
 
 4. **Open in browser**
-   Navigate to `http://localhost:5173` to view your hero page
+   Navigate to `https://web-agency-hero-page-dev.netlify.app/` to view your hero page
 
 ### Build for Production
 
@@ -157,7 +157,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📚 Project Origin
+## 📚 Project Credits
 
 This project was created as part of the **Pro Developer Path** on [Scrimba.com](https://scrimba.com/). It demonstrates modern CSS techniques including flexbox, transforms, transitions, and responsive design principles.
 
