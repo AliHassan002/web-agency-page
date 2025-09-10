@@ -2,6 +2,10 @@
 
 A modern, responsive hero page for "Dave's Devs & Designers" web agency built with HTML, CSS, and Vite. This project features a stunning hero section with interactive elements and smooth animations.
 
+## 🌐 Live Demo
+
+**🚀 [View Live Website](https://web-agency-hero-page-dev.netlify.app/)** - Experience the interactive hero page with hover effects and smooth animations
+
 ![Web Agency Hero Page Preview](img/image.png)
 
 ## ✨ Features
